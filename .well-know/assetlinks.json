@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.javierchoquetico.miselaneos",
+      "sha256_cert_fingerprints":
+      ["2F:9D:0F:E9:8E:C7:10:E5:88:AD:F0:02:D1:DD:DB:B6:8E:2E:C7:54:79:DD:C1:01:61:10:00:84:77:AB:3A:F7"]
+    }
+  }]
+  
